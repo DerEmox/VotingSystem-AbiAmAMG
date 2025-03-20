@@ -1,6 +1,5 @@
 node_modules
 src/lib/Justin.png
-src/lib/firebase.ts
 
 # Output
 .output
